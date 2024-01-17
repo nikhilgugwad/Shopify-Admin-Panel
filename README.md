@@ -1,4 +1,4 @@
-# Shopify E-commerce Admin Panel
+# Shopify - Admin Panel
 
 This admin panel is a part of the Shopify e-commerce project and has been built using Vite and React.
 
@@ -12,14 +12,7 @@ This admin panel is a part of the Shopify e-commerce project and has been built 
 
 To set up the Shopify E-commerce Admin Panel locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone <admin-panel-repo-url>
-cd admin-panel
-```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
 ```bash
 npm install
