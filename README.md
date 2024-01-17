@@ -1,6 +1,3 @@
-Certainly! Here's the modified README.md file without the contributing and license sections:
-
-```markdown
 # Shopify E-commerce Admin Panel
 
 This admin panel is a part of the Shopify e-commerce project and has been built using Vite and React.
@@ -54,5 +51,4 @@ npm run dev
 2. Open your browser and navigate to [http://localhost:3000](http://localhost:3000).
 
 3. Use the admin panel to add and manage products.
-```
 
